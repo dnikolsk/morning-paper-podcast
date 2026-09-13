@@ -1,40 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Paper</title>
     <link>https://dnikolsk.github.io/morning-paper-podcast/</link>
-    <atom:link href="https://dnikolsk.github.io/morning-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://dnikolsk.github.io/morning-paper-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 12:46:53 +0000</lastBuildDate>
-    <image>
-      <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
-      <title>Morning Paper</title>
-      <link>https://dnikolsk.github.io/morning-paper-podcast/</link>
-    </image>
-    <itunes:image href="https://dnikolsk.github.io/morning-paper-podcast/cover.jpg"/>
+    <lastBuildDate>Sun, 13 Sep 2026 12:49:35 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <itunes:summary>Morning Paper: a private daily audio briefing.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="News"/>
+    <itunes:category text="News" />
     <itunes:owner>
       <itunes:name>Morning Paper</itunes:name>
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>Morning Paper — welcome</title>
+      <title>Morning Paper — Sep 13, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-13.mp3</link>
-      <guid isPermaLink="false">morning-paper-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 12:46:53 +0000</pubDate>
-      <description>Welcome to Morning Paper. This is a short seed episode published so that Apple Podcasts and other apps can follow the feed by URL. Daily episodes will appear here.</description>
-      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-13.mp3" length="80501" type="audio/mpeg"/>
-      <itunes:title>Morning Paper — welcome</itunes:title>
-      <itunes:summary>Welcome to Morning Paper. This is a short seed episode published so that Apple Podcasts and other apps can follow the feed by URL. Daily episodes will appear here.</itunes:summary>
-      <itunes:duration>10</itunes:duration>
+      <guid isPermaLink="false">https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-13.mp3</guid>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-13.mp3" length="8314796" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Sep 13, 2026</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
+      <description>Sunday briefing: Anthropic Claude misuse report, Hormuz shipping risk, NYC flood watch, Friday market rebound.</description>
+      <itunes:summary>Sunday briefing: Anthropic Claude misuse report, Hormuz shipping risk, NYC flood watch, Friday market rebound.</itunes:summary>
     </item>
   </channel>
 </rss>
