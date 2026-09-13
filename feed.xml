@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning Paper</title>
+    <link>https://dnikolsk.github.io/morning-paper-podcast/</link>
+    <atom:link href="https://dnikolsk.github.io/morning-paper-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Morning Paper: a private daily audio briefing.</description>
+    <language>en-us</language>
+    <copyright>Morning Paper</copyright>
+    <lastBuildDate>Sun, 13 Sep 2026 12:00:00 +0000</lastBuildDate>
+    <itunes:author>Morning Paper</itunes:author>
+    <itunes:summary>Morning Paper: a private daily audio briefing.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:owner>
+      <itunes:name>Morning Paper</itunes:name>
+      <itunes:email>dnikolsk@gmail.com</itunes:email>
+    </itunes:owner>
+  </channel>
+</rss>
