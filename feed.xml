@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 13:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:19:08 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image><url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url><title>Morning Paper</title><link>https://dnikolsk.github.io/morning-paper-podcast/</link></image><itunes:image href="https://dnikolsk.github.io/morning-paper-podcast/cover.jpg" /><itunes:summary>Morning Paper: a private daily audio briefing.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -29,5 +29,5 @@
       <description>Sunday briefing: Anthropic Claude misuse report, Hormuz shipping risk, NYC flood watch, Friday market rebound.</description>
       <itunes:summary>Sunday briefing: Anthropic Claude misuse report, Hormuz shipping risk, NYC flood watch, Friday market rebound.</itunes:summary>
     <itunes:duration>520</itunes:duration></item>
-  </channel>
+  <itunes:block>Yes</itunes:block></channel>
 </rss>
