@@ -16,6 +16,7 @@ import argparse
 import datetime as dt
 import email.utils
 import shutil
+import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -70,7 +71,21 @@ def item_sort_key(item: ET.Element) -> str:
     return Path(url).stem
 
 
-def build_item(title: str, day: dt.date, summary: str | None, size: int) -> ET.Element:
+def mp3_duration_seconds(path: Path) -> int | None:
+    """Best-effort duration via ffprobe; None when ffprobe is unavailable."""
+    try:
+        out = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=noprint_wrappers=1:nokey=1", str(path)],
+            capture_output=True, text=True, check=True, timeout=30,
+        ).stdout.strip()
+        return max(1, round(float(out)))
+    except (OSError, subprocess.SubprocessError, ValueError):
+        return None
+
+
+def build_item(title: str, day: dt.date, summary: str | None, size: int,
+               duration: int | None) -> ET.Element:
     filename = f"{day.isoformat()}.mp3"
     url = f"{BASE_URL}episodes/{filename}"
 
@@ -78,15 +93,18 @@ def build_item(title: str, day: dt.date, summary: str | None, size: int) -> ET.E
     ET.SubElement(item, "title").text = title
     ET.SubElement(item, "link").text = url
     guid = ET.SubElement(item, "guid", isPermaLink="false")
-    guid.text = url
+    guid.text = f"morning-paper-{day.isoformat()}"
     ET.SubElement(item, "pubDate").text = pub_date(day)
-    ET.SubElement(item, "enclosure", url=url, length=str(size), type="audio/mpeg")
-    ET.SubElement(item, itunes("title")).text = title
-    ET.SubElement(item, itunes("episodeType")).text = "full"
-    ET.SubElement(item, itunes("explicit")).text = "false"
     if summary:
         ET.SubElement(item, "description").text = summary
+    ET.SubElement(item, "enclosure", url=url, length=str(size), type="audio/mpeg")
+    ET.SubElement(item, itunes("title")).text = title
+    if summary:
         ET.SubElement(item, itunes("summary")).text = summary
+    if duration is not None:
+        ET.SubElement(item, itunes("duration")).text = str(duration)
+    ET.SubElement(item, itunes("episodeType")).text = "full"
+    ET.SubElement(item, itunes("explicit")).text = "false"
     return item
 
 
@@ -136,7 +154,8 @@ def main(argv=None) -> int:
         print("feed.xml has no <channel> element", file=sys.stderr)
         return 1
 
-    new_item = build_item(args.title, args.episode_date, args.summary, size)
+    duration = mp3_duration_seconds(dest)
+    new_item = build_item(args.title, args.episode_date, args.summary, size, duration)
     replaced = upsert_item(channel, new_item)
     update_last_build_date(channel)
 
