@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Paper</title>
@@ -7,9 +7,15 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 13:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:14:02 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
-    <image><url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url><title>Morning Paper</title><link>https://dnikolsk.github.io/morning-paper-podcast/</link></image><itunes:image href="https://dnikolsk.github.io/morning-paper-podcast/cover.jpg" /><itunes:summary>Morning Paper: a private daily audio briefing.</itunes:summary>
+    <image>
+      <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
+      <title>Morning Paper</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/</link>
+    </image>
+    <itunes:image href="https://dnikolsk.github.io/morning-paper-podcast/cover.jpg" />
+    <itunes:summary>Morning Paper: a private daily audio briefing.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News" />
@@ -17,6 +23,20 @@
       <itunes:name>Morning Paper</itunes:name>
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Sep 14, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-14.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Monday briefing: Amodei slowdown pitch, OpenAI IPO pause, Big Tech off-book AI debt, Sweden election, Saudi pipeline, Bronx Legionnaires, diesel record, Friday stock rebound.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-14.mp3" length="10639532" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Sep 14, 2026</itunes:title>
+      <itunes:summary>Monday briefing: Amodei slowdown pitch, OpenAI IPO pause, Big Tech off-book AI debt, Sweden election, Saudi pipeline, Bronx Legionnaires, diesel record, Friday stock rebound.</itunes:summary>
+      <itunes:duration>665</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Sep 13, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-13.mp3</link>
@@ -28,6 +48,7 @@
       <itunes:explicit>false</itunes:explicit>
       <description>Sunday briefing: Anthropic Claude misuse report, Hormuz shipping risk, NYC flood watch, Friday market rebound.</description>
       <itunes:summary>Sunday briefing: Anthropic Claude misuse report, Hormuz shipping risk, NYC flood watch, Friday market rebound.</itunes:summary>
-    <itunes:duration>520</itunes:duration></item>
-  <itunes:block>Yes</itunes:block></channel>
+      <itunes:duration>520</itunes:duration>
+    </item>
+  </channel>
 </rss>
