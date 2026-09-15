@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Paper</title>
@@ -24,7 +24,7 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
-    <item>
+    <item><title>Morning Paper — 2026-09-15</title><description>AI: Trump/Beijing reject slowdown, Apple Siri AI, DeepSeek Flash, Microsoft Humanist AI code. World: Houthis/Saudi, oil, China exit rules, US space weapon. City: Vision Zero, public-charge suit. Markets: Monday slip, 10y near 5%, Brent ~$106.</description><guid isPermaLink="false">morning-paper-2026-09-15</guid><pubDate>Tue, 15 Sep 2026 10:50:00 +0000</pubDate><enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-15.mp3" length="9576620" type="audio/mpeg" /><itunes:duration>600</itunes:duration><itunes:explicit>false</itunes:explicit></item><item>
       <title>Morning Paper — Sep 14, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-14.mp3</link>
       <guid isPermaLink="false">morning-paper-2026-09-14</guid>
