@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 11:06:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:55:37 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Sep 17, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-17.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Thu briefing: Zuck vs AI slowdown, Showly artifact cloud, DeepMind Institute, Russia strikes Kyiv, UN Iran findings, Hochul data-center pause, Bronx Legionnaires, post-Fed book bounce.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-17.mp3" length="9092012" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Sep 17, 2026</itunes:title>
+      <itunes:summary>Thu briefing: Zuck vs AI slowdown, Showly artifact cloud, DeepMind Institute, Russia strikes Kyiv, UN Iran findings, Hochul data-center pause, Bronx Legionnaires, post-Fed book bounce.</itunes:summary>
+      <itunes:duration>568</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Sep 16, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-16.mp3</link>
