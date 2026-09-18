@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 10:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:01:52 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — 2026-09-18</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-18.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI: OpenAI misbehavior reports, 900B agents outlook, Ratepayer Act. World: Russia election, RM48U missiles, Yemen displacement, Saudi F-35s. City: UNGA gridlock, Fed hike. Markets: Thu rebound (fallback).</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-18.mp3" length="9825452" type="audio/mpeg" />
+      <itunes:title>Morning Paper — 2026-09-18</itunes:title>
+      <itunes:summary>AI: OpenAI misbehavior reports, 900B agents outlook, Ratepayer Act. World: Russia election, RM48U missiles, Yemen displacement, Saudi F-35s. City: UNGA gridlock, Fed hike. Markets: Thu rebound (fallback).</itunes:summary>
+      <itunes:duration>614</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Sep 17, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-17.mp3</link>
