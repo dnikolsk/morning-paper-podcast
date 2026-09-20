@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Morning Paper</title>
@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 11:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:05:31 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Sunday, Sep 20, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-20.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI: Gemini breakout test, Anthropic IPO model debate, Trump AI Force, Huawei 900B agents. World: Moscow drones, Russian election, UNGA, Saudi-Houthi, NK missiles. City: rain, MTA, UNGA gridlock, Williamsburg fire. Markets: weekend fallback Friday closes.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-20.mp3" length="9971372" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Sunday, Sep 20, 2026</itunes:title>
+      <itunes:summary>AI: Gemini breakout test, Anthropic IPO model debate, Trump AI Force, Huawei 900B agents. World: Moscow drones, Russian election, UNGA, Saudi-Houthi, NK missiles. City: rain, MTA, UNGA gridlock, Williamsburg fire. Markets: weekend fallback Friday closes.</itunes:summary>
+      <itunes:duration>623</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — 2026-09-19</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-19.mp3</link>
