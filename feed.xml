@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 20 Sep 2026 11:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:02:50 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,7 +24,20 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
-    <item>
+        <item>
+      <title>Morning Paper — 2026-09-21</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-21.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI: OpenAI hacked via Claude-assisted bug bounty; Anthropic AGENTS.md leverage + Bay Area wet lab; Pentagon AI near-miss. World: Xi US visit Sep 23–25; United Russia ~58%; Zelenskyy–Trump NY meet; Riyadh alerts. City: UNGA gridlock week; Trump–Mamdani Gracie; MTA work-zone fines Tue. Markets: crypto+tech premarket bid; brokerage ~$208k; 10Y ~4.97%.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-21.mp3" length="9552044" type="audio/mpeg" />
+      <itunes:title>Morning Paper — 2026-09-21</itunes:title>
+      <itunes:summary>AI: OpenAI hacked via Claude-assisted bug bounty; Anthropic AGENTS.md leverage + Bay Area wet lab; Pentagon AI near-miss. World: Xi US visit Sep 23–25; United Russia ~58%; Zelenskyy–Trump NY meet; Riyadh alerts. City: UNGA gridlock week; Trump–Mamdani Gracie; MTA work-zone fines Tue. Markets: crypto+tech premarket bid; brokerage ~$208k; 10Y ~4.97%.</itunes:summary>
+      <itunes:duration>597</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Morning Paper — Sunday, Sep 20, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-20.mp3</link>
       <guid isPermaLink="false">morning-paper-2026-09-20</guid>
