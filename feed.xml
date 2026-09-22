@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 11:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:01:42 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,7 +24,20 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
-        <item>
+    <item>
+      <title>Morning Paper — 2026-09-22</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-22.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI: Amazon blocks Muse; Trump AI Force; model pain axis. World: UNGA Trump day, Greenland security deal, Zelenskiy energy truce. City: East Side gridlock, MTA work-zone fines day 1, Sunnyside talks. Markets: crypto bid near $86k BTC; book snapshot.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-22.mp3" length="10214828" type="audio/mpeg" />
+      <itunes:title>Morning Paper — 2026-09-22</itunes:title>
+      <itunes:summary>AI: Amazon blocks Muse; Trump AI Force; model pain axis. World: UNGA Trump day, Greenland security deal, Zelenskiy energy truce. City: East Side gridlock, MTA work-zone fines day 1, Sunnyside talks. Markets: crypto bid near $86k BTC; book snapshot.</itunes:summary>
+      <itunes:duration>638</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Morning Paper — 2026-09-21</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-21.mp3</link>
       <guid isPermaLink="false">morning-paper-2026-09-21</guid>
@@ -37,7 +50,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
-<item>
+    <item>
       <title>Morning Paper — Sunday, Sep 20, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-20.mp3</link>
       <guid isPermaLink="false">morning-paper-2026-09-20</guid>
