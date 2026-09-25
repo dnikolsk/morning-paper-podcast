@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 11:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:00:37 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Fri Sep 25, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-25.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI: Meta Muse at Connect, Google chips to space, world-model capital, evals go mainstream. World: Kyiv drone strike, Trump–Xi wrap, Iran Hormuz roadmap. City: nor’easter travel advisory. Markets: VXUS/ETH lead premarket.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-25.mp3" length="11045420" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Fri Sep 25, 2026</itunes:title>
+      <itunes:summary>AI: Meta Muse at Connect, Google chips to space, world-model capital, evals go mainstream. World: Kyiv drone strike, Trump–Xi wrap, Iran Hormuz roadmap. City: nor’easter travel advisory. Markets: VXUS/ETH lead premarket.</itunes:summary>
+      <itunes:duration>690</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper - 24 Sep 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-24.mp3</link>
