@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 11:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:21:27 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper - 26 Sep 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-26.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Saturday morning paper: Microsoft Copilot Autopilot, Hormuz rejection, NYC nor'easter, weekend crypto.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-26.mp3" length="10747052" type="audio/mpeg" />
+      <itunes:title>Morning Paper - 26 Sep 2026</itunes:title>
+      <itunes:summary>Saturday morning paper: Microsoft Copilot Autopilot, Hormuz rejection, NYC nor'easter, weekend crypto.</itunes:summary>
+      <itunes:duration>672</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Fri Sep 25, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-25.mp3</link>
