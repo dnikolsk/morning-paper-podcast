@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 11:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:00:08 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Sep 27, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-27.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Sunday edition: Every Slack agents + viral clip workflow; Iran awaits U.S. Hormuz reply; NYC coastal flood warning; weekend crypto tape (SOL leads).</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-27.mp3" length="11055788" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Sep 27, 2026</itunes:title>
+      <itunes:summary>Sunday edition: Every Slack agents + viral clip workflow; Iran awaits U.S. Hormuz reply; NYC coastal flood warning; weekend crypto tape (SOL leads).</itunes:summary>
+      <itunes:duration>691</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper - 26 Sep 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-26.mp3</link>
