@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 27 Sep 2026 11:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:01:56 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — 28 Sep 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-28.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI: OpenAI agents on gov sites, Anthropic Pentagon appeal, Meta Muse, stolen AI access. World: Kharkiv strike, Iran talks/rial, Fairford arrests, Vučić resigns. City: Monday commute, LI outages, NYC AI bills. Markets: Iran/oil/yields risk-off, OpenAI pause, book marks.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-28.mp3" length="9360044" type="audio/mpeg" />
+      <itunes:title>Morning Paper — 28 Sep 2026</itunes:title>
+      <itunes:summary>AI: OpenAI agents on gov sites, Anthropic Pentagon appeal, Meta Muse, stolen AI access. World: Kharkiv strike, Iran talks/rial, Fairford arrests, Vučić resigns. City: Monday commute, LI outages, NYC AI bills. Markets: Iran/oil/yields risk-off, OpenAI pause, book marks.</itunes:summary>
+      <itunes:duration>585</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Sep 27, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-27.mp3</link>
