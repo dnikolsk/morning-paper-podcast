@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 12:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:08:15 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper - 30 Sep 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-30.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
+      <description>AI, world, NYC, and markets for Sep 30, 2026</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-30.mp3" length="10644908" type="audio/mpeg" />
+      <itunes:title>Morning Paper - 30 Sep 2026</itunes:title>
+      <itunes:summary>AI, world, NYC, and markets for Sep 30, 2026</itunes:summary>
+      <itunes:duration>665</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — 29 Sep 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-09-29.mp3</link>
