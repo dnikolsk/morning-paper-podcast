@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 11:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:07:20 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Tue Oct 6, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-06.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Reflection AI's open-weight Beam, OpenAI's EU text watermark, who pays for AI, arXiv's submission cap; Yemen, Quebec, Black Sea; NYC childcare and housing vouchers; markets.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-06.mp3" length="9439916" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Tue Oct 6, 2026</itunes:title>
+      <itunes:summary>Reflection AI's open-weight Beam, OpenAI's EU text watermark, who pays for AI, arXiv's submission cap; Yemen, Quebec, Black Sea; NYC childcare and housing vouchers; markets.</itunes:summary>
+      <itunes:duration>590</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Monday, Oct 5, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-05.mp3</link>
