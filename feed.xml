@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 11:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:11:40 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Thu Oct 8, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-08.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Biohub's $1.8B virtual cell, Grok Bot routes to Claude, Claude Haiku 5.5, ChatGPT intelligent UI, SynthID worldwide; Kramatorsk bus strike, Houthi attacks on Saudi airports, Margaret Hamilton dies; Mamdani's Oct. 7 vigil, Central Park loop crashes, Texas execution; oil, yields and an NYT premarket drop.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-08.mp3" length="10909484" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Thu Oct 8, 2026</itunes:title>
+      <itunes:summary>Biohub's $1.8B virtual cell, Grok Bot routes to Claude, Claude Haiku 5.5, ChatGPT intelligent UI, SynthID worldwide; Kramatorsk bus strike, Houthi attacks on Saudi airports, Margaret Hamilton dies; Mamdani's Oct. 7 vigil, Central Park loop crashes, Texas execution; oil, yields and an NYT premarket drop.</itunes:summary>
+      <itunes:duration>682</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Wed Oct 7, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-07.mp3</link>
