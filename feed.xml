@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 11:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:00:07 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Fri Oct 9, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-09.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-09.mp3" length="9401516" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Fri Oct 9, 2026</itunes:title>
+      <itunes:duration>588</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Thu Oct 8, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-08.mp3</link>
