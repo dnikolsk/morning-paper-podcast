@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 11:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:02:44 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper - 13 Oct 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-13.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: Meta Muse Wonder, Maia 300, Microsoft Decision-1, offshore agents, Anthropic Philly tip. World: Syrskyi, Bulgaria drones, Sudan airstrikes, Kabila, Europe diesel. City: Hochul debate, measles emergency, taxi healthcare, ICE Belgal, weather. Markets: bank earnings day.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-13.mp3" length="10532396" type="audio/mpeg" />
+      <itunes:title>Morning Paper - 13 Oct 2026</itunes:title>
+      <itunes:summary>AI: Meta Muse Wonder, Maia 300, Microsoft Decision-1, offshore agents, Anthropic Philly tip. World: Syrskyi, Bulgaria drones, Sudan airstrikes, Kabila, Europe diesel. City: Hochul debate, measles emergency, taxi healthcare, ICE Belgal, weather. Markets: bank earnings day.</itunes:summary>
+      <itunes:duration>658</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper - 12 Oct 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-12.mp3</link>
