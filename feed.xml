@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 11:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:00:44 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Wednesday, October 14, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-14.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: OpenAI boardroom bug charge, Gemini 4 Argon, Character.ai bankruptcy, Jack Clark RSI 2027, publishers AI double standard. World: Ukraine power/Starlink, Pope surgery, Nord Stream trial, Saudi-Houthi, French supermarket cyber. City: Bronx casino, Midtown bus ramps, horse carriage ban, ICE Roxbury, weather. Markets: Sept CPI 8:30am.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-14.mp3" length="10280492" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Wednesday, October 14, 2026</itunes:title>
+      <itunes:summary>AI: OpenAI boardroom bug charge, Gemini 4 Argon, Character.ai bankruptcy, Jack Clark RSI 2027, publishers AI double standard. World: Ukraine power/Starlink, Pope surgery, Nord Stream trial, Saudi-Houthi, French supermarket cyber. City: Bronx casino, Midtown bus ramps, horse carriage ban, ICE Roxbury, weather. Markets: Sept CPI 8:30am.</itunes:summary>
+      <itunes:duration>643</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper - 13 Oct 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-13.mp3</link>
