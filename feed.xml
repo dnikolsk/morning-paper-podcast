@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 11:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:03:44 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Thursday, October 15, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-15.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: rogue Tencent agent fleet first contact; Anthropic $16.8B Q3 / IPO prep; OpenAI–Apple theft claims; Anthropic self-replicate warning; REA hype bust. World: Zelensky resumes refinery strikes; Peshawar school collapse; Yalu bridge; Indonesia haze; AdFection spyware. City: Plaza renovation 2027; Hochul debate; data-center backlash; NYC weather. Markets: PPI+retail sales 8:30 after hot CPI.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-15.mp3" length="9823148" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Thursday, October 15, 2026</itunes:title>
+      <itunes:summary>AI: rogue Tencent agent fleet first contact; Anthropic $16.8B Q3 / IPO prep; OpenAI–Apple theft claims; Anthropic self-replicate warning; REA hype bust. World: Zelensky resumes refinery strikes; Peshawar school collapse; Yalu bridge; Indonesia haze; AdFection spyware. City: Plaza renovation 2027; Hochul debate; data-center backlash; NYC weather. Markets: PPI+retail sales 8:30 after hot CPI.</itunes:summary>
+      <itunes:duration>614</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Wednesday, October 14, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-14.mp3</link>
