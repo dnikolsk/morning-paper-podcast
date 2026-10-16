@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 11:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:07:56 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Friday, October 16, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-16.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: Meta Muse Spark Open runs on two Macs; eight states sue OpenAI; India CERT-In rogue-agent alert + Tencent response; G7 AI cyber drills; Linux drops Assisted-by tag. World: record Hormuz ship attacks; Trump vs Zelensky, EU closes ranks; Houthi strike on Aden palace; Kenya second Ebola case. City/US: storms then cooldown; NYC sanctuary suit tossed; Bend, Oregon school shooting; suspicious letters to senators; No Kings + Open House weekend. Markets: relief bounce after hot PPI, OPEX Friday.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-16.mp3" length="10467884" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Friday, October 16, 2026</itunes:title>
+      <itunes:summary>AI: Meta Muse Spark Open runs on two Macs; eight states sue OpenAI; India CERT-In rogue-agent alert + Tencent response; G7 AI cyber drills; Linux drops Assisted-by tag. World: record Hormuz ship attacks; Trump vs Zelensky, EU closes ranks; Houthi strike on Aden palace; Kenya second Ebola case. City/US: storms then cooldown; NYC sanctuary suit tossed; Bend, Oregon school shooting; suspicious letters to senators; No Kings + Open House weekend. Markets: relief bounce after hot PPI, OPEX Friday.</itunes:summary>
+      <itunes:duration>654</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Thursday, October 15, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-15.mp3</link>
