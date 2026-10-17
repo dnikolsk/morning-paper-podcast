@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 11:07:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:09:58 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper — Saturday, October 17, 2026</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-17.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: Anthropic pitches its own AI safety bill; Anthropic offers Blackstone 10%+ yield on chip debt; Google Universal Cart live in Gemini; Amazon Bee $75 wearable; Instinct $1B round at $10B; Meta pulls $25M from midterms push. World: Trump waives Russia sanctions; Pope Leo leaves hospital after Putin plea for Oleshky; Alberta separation vote Monday; record Amazon deforestation drop; France protests. City/US: chilly windy Saturday, sunny Sunday; press secretary Zacharia out after five days; NYC ambulance response times up 41%; California wildfires; Citi Bike expands. Markets: weekend close after Friday's AI selloff.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-17.mp3" length="9840044" type="audio/mpeg" />
+      <itunes:title>Morning Paper — Saturday, October 17, 2026</itunes:title>
+      <itunes:summary>AI: Anthropic pitches its own AI safety bill; Anthropic offers Blackstone 10%+ yield on chip debt; Google Universal Cart live in Gemini; Amazon Bee $75 wearable; Instinct $1B round at $10B; Meta pulls $25M from midterms push. World: Trump waives Russia sanctions; Pope Leo leaves hospital after Putin plea for Oleshky; Alberta separation vote Monday; record Amazon deforestation drop; France protests. City/US: chilly windy Saturday, sunny Sunday; press secretary Zacharia out after five days; NYC ambulance response times up 41%; California wildfires; Citi Bike expands. Markets: weekend close after Friday's AI selloff.</itunes:summary>
+      <itunes:duration>615</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Friday, October 16, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-16.mp3</link>
