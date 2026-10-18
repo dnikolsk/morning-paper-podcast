@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 11:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:04:54 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-10-18: Replit picks OpenAI, Anthropic's junior-hiring drop, France riots</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-18.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: Replit makes OpenAI default, Anthropic workforce report, sites block AI agents, Meta terms. World: Russia sanctions 60-day pause, France riots, Canada base fire, West Bank, Kolkata crush. City/US: sunny Sunday, Midtown subway shooting, Wichita, No Kings early vote, Tompkins Square. Markets: quiet Sunday, Meta Wednesday.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-18.mp3" length="9269804" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-10-18: Replit picks OpenAI, Anthropic's junior-hiring drop, France riots</itunes:title>
+      <itunes:summary>AI: Replit makes OpenAI default, Anthropic workforce report, sites block AI agents, Meta terms. World: Russia sanctions 60-day pause, France riots, Canada base fire, West Bank, Kolkata crush. City/US: sunny Sunday, Midtown subway shooting, Wichita, No Kings early vote, Tompkins Square. Markets: quiet Sunday, Meta Wednesday.</itunes:summary>
+      <itunes:duration>579</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Saturday, October 17, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-17.mp3</link>
