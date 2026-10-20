@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 11:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:18:52 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,19 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-10-20: Clark says singularity has begun, AI agents hack 100+ firms, Alberta stays</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-20.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0000</pubDate>
+      <description>AI: Jack Clark at IMF says singularity underway; NorForge AI-agent hacks; DHS bans DeepSeek; DeepSeek V4.1 Flash; Mercury 3; ChatGPT ad targeting. World: Alberta remains, Houthi attacks on Saudi, France Limoges arrest, Albania clashes. City: weather, 2-K expansion, HART benefits team, Midtown subway shooting. Markets from the Markets desk.</description>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-20.mp3" length="9457196" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-10-20: Clark says singularity has begun, AI agents hack 100+ firms, Alberta stays</itunes:title>
+      <itunes:summary>AI: Jack Clark at IMF says singularity underway; NorForge AI-agent hacks; DHS bans DeepSeek; DeepSeek V4.1 Flash; Mercury 3; ChatGPT ad targeting. World: Alberta remains, Houthi attacks on Saudi, France Limoges arrest, Albania clashes. City: weather, 2-K expansion, HART benefits team, Midtown subway shooting. Markets from the Markets desk.</itunes:summary>
+      <itunes:duration>591</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper — Monday, October 19, 2026</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-19.mp3</link>
