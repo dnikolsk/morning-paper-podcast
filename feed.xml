@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 12:56:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:24:41 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-10-24: OpenAI takes its smartest models offline, Google may use Gmail for ads, SpaceX eyes 80,000 cell towers</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-24.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-24.mp3" length="11417516" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-10-24: OpenAI takes its smartest models offline, Google may use Gmail for ads, SpaceX eyes 80,000 cell towers</itunes:title>
+      <itunes:duration>714</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-10-22: AI finds critical PHP flaws, Anthropic's Claude Duet, Nvidia's China chips sold out</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-22.mp3</link>
