@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 11:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:05:52 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-10-27: Anthropic files to go public; Israel votes in a near tie; Judge halts late-night work on the Chinatown jail</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-27.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-27.mp3" length="9599276" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-10-27: Anthropic files to go public; Israel votes in a near tie; Judge halts late-night work on the Chinatown jail</itunes:title>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-10-26: Kimi K3.1 Pro climbs to No. 4; Lula wins Brazil as Serbia's Vučić concedes; NY health plan shopping opens Nov 1</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-26.mp3</link>
