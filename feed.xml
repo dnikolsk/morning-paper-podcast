@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 11:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:09:20 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-10-28: Google's AI worlds can now talk back; Spain's high-speed train crash kills at least 30; Sunset Park's deadly Third Avenue gets a redesign</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-28.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-28.mp3" length="11205164" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-10-28: Google's AI worlds can now talk back; Spain's high-speed train crash kills at least 30; Sunset Park's deadly Third Avenue gets a redesign</itunes:title>
+      <itunes:duration>700</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-10-27: Anthropic files to go public; Israel votes in a near tie; Judge halts late-night work on the Chinatown jail</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-27.mp3</link>
