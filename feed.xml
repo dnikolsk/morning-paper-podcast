@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 11:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:05:08 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-01: OpenAI cuts its funding target to $20 billion; Germany unrest, Ebola, India rally; Marathon day, sunny, high near 60</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-01.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-01.mp3" length="10736684" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-01: OpenAI cuts its funding target to $20 billion; Germany unrest, Ebola, India rally; Marathon day, sunny, high near 60</itunes:title>
+      <itunes:duration>671</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-10-31: Reddit will make you log in, blaming AI search; Patriots for Ukraine, a scrapped G20 photo, Poland's court standoff; Crisp Halloween, sunny marathon, extra hour</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-10-31.mp3</link>
