@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 12:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:07:52 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-02: OpenAI wants to call data centers "AI compute campuses"; Hackers sent Kyiv a fake nuclear-strike alert; Election Eve, and the polls look good for Democrats</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-02.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-02.mp3" length="11238572" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-02: OpenAI wants to call data centers "AI compute campuses"; Hackers sent Kyiv a fake nuclear-strike alert; Election Eve, and the polls look good for Democrats</itunes:title>
+      <itunes:duration>702</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-01: OpenAI cuts its funding target to $20 billion; Germany unrest, Ebola, India rally; Marathon day, sunny, high near 60</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-01.mp3</link>
