@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 12:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:16:36 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-05: OpenAI's cyber model finds and patches 948 Linux root paths; Bomb threats hit European flights for a second day; Vance: "The reason we lost is the war"</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-05.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-05.mp3" length="12784556" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-05: OpenAI's cyber model finds and patches 948 Linux root paths; Bomb threats hit European flights for a second day; Vance: "The reason we lost is the war"</itunes:title>
+      <itunes:duration>799</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-04: Google says schools that switch off AI lose Google Search too; Iran says American voters said "no to war"; Democrats win the House and the Senate</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-04.mp3</link>
