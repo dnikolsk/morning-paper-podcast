@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 12:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:05:54 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-07: OpenAI raises another $11 billion; Paraguay's president removed; Trump names Stephen Miller chief of staff</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-07.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-07.mp3" length="11477804" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-07: OpenAI raises another $11 billion; Paraguay's president removed; Trump names Stephen Miller chief of staff</itunes:title>
+      <itunes:duration>717</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-05: OpenAI's cyber model finds and patches 948 Linux root paths; Bomb threats hit European flights for a second day; Vance: "The reason we lost is the war"</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-05.mp3</link>
