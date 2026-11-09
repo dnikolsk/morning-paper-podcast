@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 12:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:08:11 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-09: Nvidia's board opens an investigation as Jensen Huang admits an affair; Houthi strike hits the Aramco Tower in Riyadh; Trump says his immigration crackdown was "too tough"</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-09.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-09.mp3" length="11465132" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-09: Nvidia's board opens an investigation as Jensen Huang admits an affair; Houthi strike hits the Aramco Tower in Riyadh; Trump says his immigration crackdown was "too tough"</itunes:title>
+      <itunes:duration>717</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-07: OpenAI raises another $11 billion; Paraguay's president removed; Trump names Stephen Miller chief of staff</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-07.mp3</link>
