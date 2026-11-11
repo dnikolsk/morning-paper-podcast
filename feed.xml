@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 12:06:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:07:37 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-11: OpenAI opens ChatGPT to businesses; U.S. charges Iran-backed operatives over Europe attacks, one run from a New York jail; House blocks the Hegseth impeachment, for now</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-11.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-11.mp3" length="11296172" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-11: OpenAI opens ChatGPT to businesses; U.S. charges Iran-backed operatives over Europe attacks, one run from a New York jail; House blocks the Hegseth impeachment, for now</itunes:title>
+      <itunes:duration>706</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-10: Anthropic releases Claude Fable 5.2 and Mythos 5.2; Trump calls more U.S. strikes on Iran "highly unlikely"; Massie forces a House vote on impeaching Hegseth</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-10.mp3</link>
