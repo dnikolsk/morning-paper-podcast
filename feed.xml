@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 12:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:09:05 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-12: Nvidia's board moves toward ousting Jensen Huang; U.S. envoys meet Putin in Moscow; Brooklyn building collapse kills four</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-12.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-12.mp3" length="10764716" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-12: Nvidia's board moves toward ousting Jensen Huang; U.S. envoys meet Putin in Moscow; Brooklyn building collapse kills four</itunes:title>
+      <itunes:duration>673</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-11: OpenAI opens ChatGPT to businesses; U.S. charges Iran-backed operatives over Europe attacks, one run from a New York jail; House blocks the Hegseth impeachment, for now</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-11.mp3</link>
