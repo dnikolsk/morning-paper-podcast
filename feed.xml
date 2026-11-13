@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 12:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:01:07 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-13: Google's new Gemini 4 Hydrogen now runs AI Mode in Search; Microsoft's global outage stretches into a second day; Brooklyn collapse: eight dead, and the developer had ignored a stop-work order</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-13.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-13.mp3" length="10608812" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-13: Google's new Gemini 4 Hydrogen now runs AI Mode in Search; Microsoft's global outage stretches into a second day; Brooklyn collapse: eight dead, and the developer had ignored a stop-work order</itunes:title>
+      <itunes:duration>663</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-12: Nvidia's board moves toward ousting Jensen Huang; U.S. envoys meet Putin in Moscow; Brooklyn building collapse kills four</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-12.mp3</link>
