@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 12:00:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:01:32 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-15: Lutnick pushed to soften chip rules that touch his family's old firm; Iran targets a US airbase in Bahrain as Gulf strikes resume; The flight meltdown came from a copper-to-fiber upgrade</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-15.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-15.mp3" length="10761644" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-15: Lutnick pushed to soften chip rules that touch his family's old firm; Iran targets a US airbase in Bahrain as Gulf strikes resume; The flight meltdown came from a copper-to-fiber upgrade</itunes:title>
+      <itunes:duration>673</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-14: ChatGPT can now buy things for you; US floated NATO membership for Ukraine in exchange for the Donbas, Zelensky says; Flights restart after the longest US ground stop since 9/11</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-14.mp3</link>
