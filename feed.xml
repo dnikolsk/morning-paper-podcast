@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 12:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:06:57 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-16: IMF chief: the world economy is "standing on one leg," and it's AI; Trump heads to Asia for a first Trump–Xi–Putin summit; Flights are back to near normal after the FAA meltdown</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-16.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-16.mp3" length="10551212" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-16: IMF chief: the world economy is "standing on one leg," and it's AI; Trump heads to Asia for a first Trump–Xi–Putin summit; Flights are back to near normal after the FAA meltdown</itunes:title>
+      <itunes:duration>659</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-15: Lutnick pushed to soften chip rules that touch his family's old firm; Iran targets a US airbase in Bahrain as Gulf strikes resume; The flight meltdown came from a copper-to-fiber upgrade</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-15.mp3</link>
