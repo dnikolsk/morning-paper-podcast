@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 12:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:08:32 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-19: Anthropic prices a record IPO at $83 and starts trading today; Trump, Xi and Putin hold the first-ever three-way summit; MTA warns of a deficit without outside help</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-19.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-19.mp3" length="9605804" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-19: Anthropic prices a record IPO at $83 and starts trading today; Trump, Xi and Putin hold the first-ever three-way summit; MTA warns of a deficit without outside help</itunes:title>
+      <itunes:duration>600</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-18: OpenAI's GPT-6.2 Astra and Sol land to rough reviews; Trump lands in China for a summit with Xi and Putin; Democrats win Alaska, reaching 56 Senate seats</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-18.mp3</link>
