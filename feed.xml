@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 12:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:11:06 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-24: Nvidia's board brings Jensen Huang back, and Congress is furious; Iran says three tankers hit mines in Hormuz despite US escort; Sunny and chilly today, then a soaking Thanksgiving</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-24.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-24.mp3" length="11208236" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-24: Nvidia's board brings Jensen Huang back, and Congress is furious; Iran says three tankers hit mines in Hormuz despite US escort; Sunny and chilly today, then a soaking Thanksgiving</itunes:title>
+      <itunes:duration>700</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-23: OpenAI opens its private "intelligence" scorecard and asks rivals for shared limits; UN climate talks collapse without a deal; Citi Bike e-bike rides capped at $3.65 for members</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-23.mp3</link>
