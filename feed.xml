@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 12:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:43:33 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-25: The ECB finds over $4 trillion in AI debt that's off the books; Leaked Russian records show almost 500,000 war dead; A stormy, windy Thanksgiving could ground the parade balloons</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-25.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-25.mp3" length="10010924" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-25: The ECB finds over $4 trillion in AI debt that's off the books; Leaked Russian records show almost 500,000 war dead; A stormy, windy Thanksgiving could ground the parade balloons</itunes:title>
+      <itunes:duration>626</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-24: Nvidia's board brings Jensen Huang back, and Congress is furious; Iran says three tankers hit mines in Hormuz despite US escort; Sunny and chilly today, then a soaking Thanksgiving</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-24.mp3</link>
