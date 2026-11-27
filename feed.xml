@@ -7,7 +7,7 @@
     <description>Morning Paper: a private daily audio briefing.</description>
     <language>en-us</language>
     <copyright>Morning Paper</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 10:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 10:49:53 +0000</lastBuildDate>
     <itunes:author>Morning Paper</itunes:author>
     <image>
       <url>https://dnikolsk.github.io/morning-paper-podcast/cover.jpg</url>
@@ -24,6 +24,17 @@
       <itunes:email>dnikolsk@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Morning Paper 2026-11-27: Nvidia chip buyers told to rule out Chinese renters; Zelensky calls Trump-Putin friendship "strange"; Hundreds of thousands still without power after the Thanksgiving storm</title>
+      <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-27.mp3</link>
+      <guid isPermaLink="false">morning-paper-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-27.mp3" length="11892524" type="audio/mpeg" />
+      <itunes:title>Morning Paper 2026-11-27: Nvidia chip buyers told to rule out Chinese renters; Zelensky calls Trump-Putin friendship "strange"; Hundreds of thousands still without power after the Thanksgiving storm</itunes:title>
+      <itunes:duration>743</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Morning Paper 2026-11-26: Staff at Anthropic and OpenAI fear their own unreleased models; US unveils new tariffs on 14 trading partners; Macy's parade moves to Saturday as a storm hits NYC</title>
       <link>https://dnikolsk.github.io/morning-paper-podcast/episodes/2026-11-26.mp3</link>
